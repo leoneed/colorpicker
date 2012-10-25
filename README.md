@@ -1,8 +1,7 @@
-colorpicker
-===========
+#ColorPicker
 
-jQuery Color Picker Plugin
---------------------------
+###jQuery Color Picker Plugin
+
 
 Configuration options:
 ***
